@@ -78,7 +78,8 @@ two things I wouldn’t have picked myself.
  
 Unbeatable Tic Tac Toe – iPhone / Android Application
 Summary:
-In Tic Tac Toe or Naughts and Crosses two players compete in a three by three grid to create a row or line of three of the same symbols. Each player takes turns placing an “X” or an “O” in attempt to both achieve three in a row but at the same time block your opponent from reaching three in a row. Tic Tac Toe is known as a “Solved Game” which means that if both players move perfectly to find the most optimal placement of their token then every single game will come to a draw regardless of who makes the first move. 
+In Tic Tac Toe or Naughts and Crosses two players compete in a three by three grid to create a row or line of three of the same symbols. 
+Each player takes turns placing an “X” or an “O” in attempt to both achieve three in a row but at the same time block your opponent from reaching three in a row. Tic Tac Toe is known as a “Solved Game” which means that if both players move perfectly to find the most optimal placement of their token then every single game will come to a draw regardless of who makes the first move. 
 I’d like to use this knowledge to create an app that results in a draw every single game living up to the “Unbeatable” nature of the
 app title.
 
